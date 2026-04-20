@@ -3,7 +3,7 @@ Useless Latency Monitor (ULM) is A Simple, User-Friendly IPv4 pinger that Monito
 
 ** CHECK https://docs.python.org/3/tutorial/venv.html IF YOU DONT KNOW HOW TO MAKE A VIRTUAL ENVIROMENT **
 ==================================================================================================================================
-** REQUIREMENTS; **\\
+** REQUIREMENTS; **
 ----------------------
 - pip
   'apt install pip'
